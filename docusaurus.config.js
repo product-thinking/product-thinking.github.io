@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: '🎯 每日产品脑洞',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: '🎯 每日产品脑洞',
+  url: 'https://mayandev.top/product-thinking',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'mayandev', // Usually your GitHub org/user name.
+  projectName: 'product-thinking', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '每日产品脑洞',
@@ -24,7 +24,7 @@ module.exports = {
         },
       ],
     },
-    copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+    copyright: `Copyright © ${new Date().getFullYear()} Product Thinking, Inc. Built with Docusaurus.`,
   },
   presets: [
     [
@@ -35,13 +35,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/mayandev/product-thinking/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/mayandev/product-thinking/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
