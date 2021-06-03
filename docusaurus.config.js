@@ -3,7 +3,7 @@ module.exports = {
   title: '🎯 每日产品脑洞',
   tagline: '🎯 每日产品脑洞',
   url: 'https://mayandev.top/product-thinking',
-  baseUrl: '/',
+  baseUrl: '/product-thinking/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
