@@ -1,0 +1,1 @@
+(self.webpackChunkproduct_thinking=self.webpackChunkproduct_thinking||[]).push([[346],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/product-thinking/blog/welcome"},{"title":"Hello","permalink":"/product-thinking/blog/hello-world"},{"title":"Hola","permalink":"/product-thinking/blog/hola"}]}')}}]);

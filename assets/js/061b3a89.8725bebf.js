@@ -1,0 +1,1 @@
+(self.webpackChunkproduct_thinking=self.webpackChunkproduct_thinking||[]).push([[197],{5374:function(t){"use strict";t.exports=JSON.parse('{"permalink":"/product-thinking/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

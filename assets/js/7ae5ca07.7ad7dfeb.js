@@ -1,0 +1,1 @@
+(self.webpackChunkproduct_thinking=self.webpackChunkproduct_thinking||[]).push([[333],{3858:function(u){"use strict";u.exports=JSON.parse('{"allTagsPath":"/product-thinking/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/product-thinking/blog/tags/docusaurus"}')}}]);
