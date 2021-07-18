@@ -6,6 +6,8 @@
 
 </div>
 
+![product-thinking-readme](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/product-thinking-readme.png)
+
 ## 见字如面，朋友你好
 
 > 这是一个每日更新的脑洞平台，最初的想法是多做埋种子的事情，积攒一些产品上的思考并吸取多方建议。思考的来源是生活里的细节，思考的边界大于产品的边界。一拍脑袋，那不如写个文档沉淀下来吧，迁移了一部分之前讨论过的问题。除了会自产主题和思考，也会挖掘一些优质网络内容。
