@@ -43,9 +43,20 @@ jobs:
             ${{ runner.os }}-yarn-
       - run: |
           yarn install
-      - name: set up git user
-        run: |
-          git config --global user.email "phillzou@gmail.com"
-          git config --global user.name "mayandev"
       - run: |
-          GIT_USER=mayandev yarn deploy
+          yarn build
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.2.0
+        with:
+          # Git branch where site will be deployed
+          target_branch: gh-pages
+          # Create incremental commit instead of doing push force
+          keep_history: true
+          # Build directory to deploy
+          build_dir: build
+          # Write the given domain name to the CNAME file
+          #fqdn: custom.domain.name # optional
+          # Prevent Jekyll from building the site
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
