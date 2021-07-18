@@ -5,6 +5,8 @@ sidebar_position: 2
 sidebar_label: 如何维护
 ---
 
+<iframe src="//player.bilibili.com/player.html?aid=846825098&bvid=BV1o54y1E7b2&cid=372301130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## 环境准备
 
 - [git](https://git-scm.com/downloads)，版本管理器
@@ -35,7 +37,7 @@ node --version
 
 ## 申请权限
 
-注册一个 [GitHub](https://github.com) 账号，发送你的用户名或者注册邮箱给 <a href="mailto:phillzou@gmail.com">管理员</a>，管理员会返回一封确认邮件，点击确认后即可加入组织。
+注册一个 [GitHub](https://github.com) 账号，发送你的用户名或者注册邮箱给 <a href="mailto:phillzou@gmail.com">phillzou@gmail.com</a>，管理员会返回一封确认邮件，点击确认后即可加入组织。
 
 ## 克隆项目
 
