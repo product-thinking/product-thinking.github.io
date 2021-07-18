@@ -84,4 +84,35 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 ## 新增文章
 
-在 `docs/` 文件夹里新增文件或者文件夹，我这里直接新增一个 `tutorial.md` 的文件，然后编写了本篇教程。
+在 `docs/` 文件夹里新增文件或者文件夹，我这里直接新增一个 `tutorial.md` 的文件，然后编写了本篇教程，具体内容请查看这个[文件](https://github.com/product-thinking/product-thinking.github.io/edit/main/docs/Tutorial.md)。
+
+### 预览
+
+写好了新的内容，如何预览发布到线上呢？
+
+如果你没安装 `node` 或者 `yarn` 可以直接忽略这一步。
+
+命令行工具里输入下面的命令，会自动打开浏览器，可查看效果。
+
+```
+yarn && yarn start
+```
+
+### 发布
+
+这里 `git` 就派上用场了，我们需要使用 `git` 将我们的此次改动推送到 [GitHub](https://github.com/product-thinking/product-thinking.github.io) 仓库，我写好了自动化的脚本，仓库会自动编译代码，发布到线上。
+
+因此，你只需要关注你本地的代码是否被正确的推送到了 `GitHub`。
+
+使用下面命令提交代码：
+
+```bash
+# 暂存代码
+git add .
+# 提交，写好更改内容
+git commit -m "what you changed"
+# 推送代码
+git push
+```
+
+OK，有了以上的操作，我们静待几分钟，刷新一下这个网站，内容即将更新 🎉 。
