@@ -43,5 +43,9 @@ jobs:
             ${{ runner.os }}-yarn-
       - run: |
           yarn install
+      - name: set up git user
+        run: |
+          git config --global user.email "phillzou@gmail.com"
+          git config --global user.name "mayandev"
       - run: |
           GIT_USER=mayandev yarn deploy
