@@ -2,13 +2,13 @@
 module.exports = {
   title: '🎯 每日产品脑洞',
   tagline: '🎯 每日产品脑洞',
-  url: 'https://mayandev.top/product-thinking',
-  baseUrl: '/product-thinking/',
+  url: 'https://github.com/product-thinking/product-thinking.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'mayandev', // Usually your GitHub org/user name.
-  projectName: 'product-thinking', // Usually your repo name.
+  organizationName: 'product-thinking', // Usually your GitHub org/user name.
+  projectName: 'product-thinking.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '每日产品脑洞',
@@ -18,7 +18,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/mayandev/product-thinking',
+          href: 'https://github.com/product-thinking/product-thinking.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,13 +35,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mayandev/product-thinking/edit/main/',
+            'https://github.com/product-thinking/product-thinking.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mayandev/product-thinking/edit/main/blog/',
+            'https://github.com/product-thinking/product-thinking.github.io/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
