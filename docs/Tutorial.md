@@ -96,7 +96,7 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 ![](../static/img/docusaurus.png)
 
-如果网络图片，括号内直接输入链接即可。
+如果是网络图片，括号内直接输入链接即可。
 
 ## 预览
 
