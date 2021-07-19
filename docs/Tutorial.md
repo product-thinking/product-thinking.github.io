@@ -92,9 +92,9 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 通过 markdown 的图片语法 `![图片注释](图片链接)` 来添加图片，可以使用本地图片，也可以使用网络上的图片。
 
-本地图片统一放在 `static/img` 文件夹下，我们可以通过相对路径的方式来引用。例如使用这个语法 `[](../static/img/docusaurus.png)` 引入一只小恐龙。
+本地图片统一放在 `static/img` 文件夹下，我们可以通过相对路径的方式来引用。例如使用这个语法 `![](../static/img/docusaurus.png)` 引入一只小恐龙。
 
-[](../static/img/docusaurus.png)
+![](../static/img/docusaurus.png)
 
 如果网络图片，括号内直接输入链接即可。
 
