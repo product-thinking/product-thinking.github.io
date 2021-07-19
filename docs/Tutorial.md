@@ -5,7 +5,7 @@ sidebar_position: 2
 sidebar_label: 如何维护
 ---
 
-<iframe width="800" height="500" src="//player.bilibili.com/player.html?aid=846825098&bvid=BV1o54y1E7b2&cid=372301130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="600" src="//player.bilibili.com/player.html?aid=846825098&bvid=BV1o54y1E7b2&cid=372301130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 环境准备
 
