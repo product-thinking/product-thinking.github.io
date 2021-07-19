@@ -5,7 +5,7 @@ sidebar_position: 2
 sidebar_label: 如何维护
 ---
 
-<iframe src="//player.bilibili.com/player.html?aid=846825098&bvid=BV1o54y1E7b2&cid=372301130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="800" height="500" src="//player.bilibili.com/player.html?aid=846825098&bvid=BV1o54y1E7b2&cid=372301130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 环境准备
 
@@ -28,7 +28,7 @@ sidebar_label: 如何维护
 
 在命令行工具中，输入下面的命令检查 Git 和 Node 的环境是否生效。
 
-```console
+```bash
 git --version
 node --version
 ```
@@ -43,7 +43,7 @@ node --version
 
 使用 git 命令将[项目](https://github.com/product-thinking/product-thinking.github.io) clone 至本地。
 
-```console
+```bash
 git clone https://github.com/product-thinking/product-thinking.github.io
 ```
 
@@ -80,7 +80,7 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 文件的开头有一些参数配置，含义如下：
 
-- `sidebar_position`：导航栏上的位置
+- sidebar_position：导航栏上的位置
 - title：文章的标题
 - sidebar_label：导航栏的名字
 
@@ -88,7 +88,17 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 在 `docs/` 文件夹里新增文件或者文件夹，我这里直接新增一个 `tutorial.md` 的文件，然后编写了本篇教程，具体内容请查看这个[文件](https://github.com/product-thinking/product-thinking.github.io/edit/main/docs/Tutorial.md)。
 
-### 预览
+## 图片
+
+通过 markdown 的图片语法 `![图片注释](图片链接)` 来添加图片，可以使用本地图片，也可以使用网络上的图片。
+
+本地图片统一放在 `static/img` 文件夹下，我们可以通过相对路径的方式来引用。例如使用这个语法 `[](../static/img/docusaurus.png)` 引入一只小恐龙。
+
+[](../static/img/docusaurus.png)
+
+如果网络图片，括号内直接输入链接即可。
+
+## 预览
 
 写好了新的内容，如何预览发布到线上呢？
 
@@ -96,11 +106,11 @@ git clone https://github.com/product-thinking/product-thinking.github.io
 
 命令行工具里输入下面的命令，会自动打开浏览器，可查看效果。
 
-```
+```bash
 yarn && yarn start
 ```
 
-### 发布
+## 发布
 
 这里 `git` 就派上用场了，我们需要使用 `git` 将我们的此次改动推送到 [GitHub](https://github.com/product-thinking/product-thinking.github.io) 仓库，我写好了自动化的脚本，仓库会自动编译代码，发布到线上。
 
