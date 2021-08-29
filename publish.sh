@@ -2,4 +2,4 @@
 git add .
 git commit -m "post"
 git push
-GIT_USER=mayandev yarn deploy
+GIT_USER=jiajinli22 yarn deploy
