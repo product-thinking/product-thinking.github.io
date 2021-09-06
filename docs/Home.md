@@ -41,3 +41,8 @@ slug: /
 [Intro-下饭电台.mp3](https://bytedance.feishu.cn/file/boxcn3xR4jZMzN5eHc0tvtlfqef?from=from)
 
 [Intro-This Must Be the Gig.mp3](https://bytedance.feishu.cn/file/boxcnViW0LiBdPYCtGdtxuD3YRC)
+
+## 埋种子计划
+
+The secret to personal and professional happiness, is for your persona to be congruent with your soul
+幸福的密码，就在于外化的自我和本我的统一
