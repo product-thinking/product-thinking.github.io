@@ -34,7 +34,9 @@ slug: /
 
 工作经历：多次混迹在市场调研公司（汽车，美妆，快消），熟悉用户研究和体验测试。随后辗转在字节和阿里的产品岗，势必打通 2C 和 2B 的任督二脉
 
-兴趣爱好：[播客](https://mp.weixin.qq.com/s/urpRKpF_kxEQwpqIYKH4Lg)，[摄影](https://bytedance.feishu.cn/docs/doccny9Wzab1zhxXJxwpOzo18Yf?from=from_copylink)，水上运动。
+未来方向：产品设计，品牌营销
+
+兴趣爱好：[播客](https://mp.weixin.qq.com/s/urpRKpF_kxEQwpqIYKH4Lg)，[摄影](https://bytedance.feishu.cn/docs/doccny9Wzab1zhxXJxwpOzo18Yf?from=from_copylink)，水上运动
 
 [Intro-下饭电台.mp3](https://bytedance.feishu.cn/file/boxcn3xR4jZMzN5eHc0tvtlfqef?from=from)
 
