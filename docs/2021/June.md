@@ -21,5 +21,5 @@ sidebar_label: June
 * 我们如何能够缓解老年人因失能带来的心理痛苦？
 
 ## 产品架构图
-![avatar](/user/desktop/产品架构图.jpeg)
+![avatar](/static/img/产品架构图.jpeg)
 
