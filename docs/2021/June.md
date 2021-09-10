@@ -32,7 +32,6 @@ sidebar_label: June
 ![](../../static/img/6.jpg)
 ![](../../static/img/7.jpg)
 ![](../../static/img/8.jpg)
-![](../../static/img/9.jpg)
 ![](../../static/img/10.jpg)
 ![](../../static/img/11.jpg)
 ![](../../static/img/12.jpg)
