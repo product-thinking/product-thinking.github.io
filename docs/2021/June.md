@@ -23,7 +23,7 @@ sidebar_label: June
 ## 产品架构图
 ![](../../static/img/产品架构图.jpeg)
 
-## 结果展示
+## 成果展示
 ![](../../static/img/1.jpg)
 ![](../../static/img/2.jpg)
 ![](../../static/img/3.jpg)
@@ -39,3 +39,5 @@ sidebar_label: June
 ![](../../static/img/14.jpg)
 ![](../../static/img/15.jpg)
 ![](../../static/img/16.jpg)
+
+**未完待续**
