@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: June
-sidebar_label: June
+title: June - August
+sidebar_label: June - August
 ---
 
 ## 养老服务项目设计
