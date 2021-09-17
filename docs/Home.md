@@ -44,6 +44,7 @@ slug: /
 
 ## 埋种子计划
 
-The secret to personal and professional happiness, is for your persona to be congruent with your soul
+# 愿景
 
+The secret to personal and professional happiness, is for your persona to be congruent with your soul
 幸福的密码，就在于外化的自我和本我的统一
