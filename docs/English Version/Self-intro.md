@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+title: Self-intro
+sidebar_label: Self-intro
+---
+
 Hi, my name is Jiajin Li. I was born and raised in a coastal city called Ningbo and I went to Ireland for university.
 I'm a slashie. A strategic marketing student at Imperial Business School. A consultant at 180 Degrees Consulting Imperial. 
 A podcast producer at Imperial Tech, Media & Telecoms Club.
