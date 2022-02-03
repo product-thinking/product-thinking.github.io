@@ -26,7 +26,7 @@
 
 > **An information architect by education, a market researcher by profession and a podcaster by accident.**
 
-作为一句放在各平台的开场白，下面开始讲人话
+一句放在各平台的开场白，下面开始讲人话
 
 本科专业：爱尔兰都柏林大学（信息研究与网络分析 & 英语文学）
 
