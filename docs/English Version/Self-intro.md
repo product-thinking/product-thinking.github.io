@@ -12,8 +12,7 @@ sidebar_label: Self-intro
 **An information architect by education, a market researcher by profession and a podcaster by accident.**
 
 I was born and raised in a coastal city called Ningbo and I went to Ireland for university.
-I'm a slashie. A strategic marketing student at Imperial Business School. A consultant at 180 Degrees Consulting Imperial. 
-A podcast producer at Imperial Tech, Media & Telecoms Club.
+I'm a slashie. A strategic marketing student at Imperial Business School. A part-time scholar at Watson Institute's Accelerator. A podcast producer at Imperial Tech, Media & Telecoms Club.
 
 I have cross-industry project experience in FMCG, EdTech and short videos/live streaming. I'm always curious about exploring the “Go Global” strategy and overseas brand promotion. I've enjoyed working in cross-functional and outcome-driven environments at Google, Alibaba and TikTok. My previous working experience has allowed her to be proficient in new digital marketing skills such as social listening, search engine optimisation, and competitive monitoring. 
 
