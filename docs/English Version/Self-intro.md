@@ -7,7 +7,7 @@ sidebar_label: Self-intro
 ## Hi, my name is Jiajin Li.
 ### I go, I watch, I listen and I report back for you.
 
-[Heading to my personal portfolio](https://drive.google.com/file/d/1iirSHjmVAMCCUCw83M9nf9F88sNbZ83v/view?usp=sharing)
+[Heading to my personal portfolio](https://drive.google.com/file/d/1mmvaDZ-6hZQALTEZBU_XTBNqeUiQy_vA/view?usp=sharing)
 
 **An information architect by education, a market researcher by profession and a podcaster by accident.**
 
@@ -20,6 +20,7 @@ I have cross-industry project experience in FMCG, EdTech and short videos/live s
 I’m keen on working in the sweet spot between strategy and delivery and to get closer to the “how”. My enthusiasm for story-telling and business analysis is something I hope to bring to the company. It’s always "passion o’clock" in case-based analysis and business game-theory scenarios for deconstructing client problems and identifying and innovating solutions.
 
 **Highlights:**
+- **Received full scholarship from Watson Institute's Accelerator 2022**
 - **Finalist at Alibaba GDT Global Challenge 2021**
 - **Being awarded second prize at Young Sustainable Impact personal project 2020**
 - **Being awarded first prize at Dublin Techstars Student Startup Weekend 2020**
